@@ -1,3 +1,10 @@
+### Proje İçeriği
+
+> - Kullanıcı kayıt ve giriş işlemleri yapılmıştır.
+> - Her kullanıcının kendi sayfası ve Rolüne göre yaptığı işlemler vardır.
+> - Müşterinin oluşturduğu arıza kaydı Operatör tarafından onaylanıp Teknisyene atanmaktadır.
+> - Mail gönderme ve Memnuniyet Anketi mevcuttur.
+
 ### Öngereklilikler
 
 > - Visual Studio 2017
